@@ -11,7 +11,6 @@ The goal is to simulate real-world reimbursement analytics work, including:
 - service utilization analysis
 - identifying potential cost drivers
 
-This mirrors common responsibilities of a Provider Reimbursement Analyst in a payer environment.
 
 ## Data Source
 - CMS: Medicare Physician & Other Practitioners by Provider (2023)
